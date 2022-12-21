@@ -1,3 +1,5 @@
+//This function is given by Sabancı University
+
 #include "strutils.h"
 #include <cctype>
 #include <cstdlib>

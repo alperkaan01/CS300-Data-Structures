@@ -1,3 +1,5 @@
+//Sort Functions were given by Sabancı University
+
 #include <iostream>
 #include <string>
 #include <vector>

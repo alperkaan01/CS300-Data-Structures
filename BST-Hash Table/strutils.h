@@ -1,3 +1,5 @@
+//This function is given by Sabancı University
+
 #ifndef _STRUTILS_H
 #define _STRUTILS_H
 

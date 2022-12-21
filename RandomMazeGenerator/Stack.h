@@ -1,3 +1,5 @@
+//This file is given by Sabancı University
+
 //This header file is taken from CS300 presentation slides
 #ifndef STACK_H
 #define STACK_H
